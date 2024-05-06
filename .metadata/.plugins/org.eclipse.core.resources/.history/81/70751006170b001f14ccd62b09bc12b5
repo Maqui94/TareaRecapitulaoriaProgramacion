@@ -1,0 +1,8 @@
+package modelo.dao;
+
+public class Autor {
+ private String nombre;
+ private String biografía;
+ private String genero;
+
+}
